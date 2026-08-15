@@ -9,6 +9,7 @@ __pycache__/
 .venv
 
 /data
+/Data
 /Split_Data
 
 # Distribution / packaging
