@@ -8,9 +8,9 @@ __pycache__/
 
 .venv
 
-/data
-/Data
-/Split_Data
+Data/
+Split_Data/
+data/
 
 # Distribution / packaging
 .Python
