@@ -9,7 +9,7 @@ DataMites capstone project (PR-0019). A CNN trained from scratch to classify sta
 
 **Tech:** Python, TensorFlow/Keras, NumPy, Pandas, Matplotlib, Seaborn, scikit-learn
 **Result:** ~74% test accuracy
-
+y
 ---
 
 ### 🌾 [Riceleaf_Disease](./Riceleaf_Disease) — Rice Leaf Disease Classification
